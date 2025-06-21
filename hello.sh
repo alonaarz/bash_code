@@ -1,2 +1,10 @@
 #! bin/bash
-echo Hello World
+
+#clear
+
+
+path=/home/user/bash_code
+
+date >> $path/demo.txt
+
+
